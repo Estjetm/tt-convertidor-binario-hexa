@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+This proyect works trough a turth table for each segment completely using logic gates.
 
 ## How to test
 
-Explain how to use your project
+Use a 4 bits dipswitch to simulate binary numbers. For example if you want to prove number 5 you souldh put it like this: 1 2 3 4 0 1 0 1
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+4 bits dipswitch and 7 segment display
